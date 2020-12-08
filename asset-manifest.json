@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/diveroidcounter/static/css/main.e4e7bd3d.chunk.css",
-    "main.js": "/diveroidcounter/static/js/main.97cc522e.chunk.js",
-    "main.js.map": "/diveroidcounter/static/js/main.97cc522e.chunk.js.map",
-    "runtime-main.js": "/diveroidcounter/static/js/runtime-main.411df24b.js",
-    "runtime-main.js.map": "/diveroidcounter/static/js/runtime-main.411df24b.js.map",
-    "static/js/2.9be1b97c.chunk.js": "/diveroidcounter/static/js/2.9be1b97c.chunk.js",
-    "static/js/2.9be1b97c.chunk.js.map": "/diveroidcounter/static/js/2.9be1b97c.chunk.js.map",
-    "static/js/3.10a718d0.chunk.js": "/diveroidcounter/static/js/3.10a718d0.chunk.js",
-    "static/js/3.10a718d0.chunk.js.map": "/diveroidcounter/static/js/3.10a718d0.chunk.js.map",
+    "main.css": "/diveroidcounter/static/css/main.ac60b5bb.chunk.css",
+    "main.js": "/diveroidcounter/static/js/main.0aa4d621.chunk.js",
+    "main.js.map": "/diveroidcounter/static/js/main.0aa4d621.chunk.js.map",
+    "runtime-main.js": "/diveroidcounter/static/js/runtime-main.7275da1e.js",
+    "runtime-main.js.map": "/diveroidcounter/static/js/runtime-main.7275da1e.js.map",
+    "static/js/2.178f7935.chunk.js": "/diveroidcounter/static/js/2.178f7935.chunk.js",
+    "static/js/2.178f7935.chunk.js.map": "/diveroidcounter/static/js/2.178f7935.chunk.js.map",
+    "static/js/3.6cf0316c.chunk.js": "/diveroidcounter/static/js/3.6cf0316c.chunk.js",
+    "static/js/3.6cf0316c.chunk.js.map": "/diveroidcounter/static/js/3.6cf0316c.chunk.js.map",
     "index.html": "/diveroidcounter/index.html",
-    "static/css/main.e4e7bd3d.chunk.css.map": "/diveroidcounter/static/css/main.e4e7bd3d.chunk.css.map",
-    "static/js/2.9be1b97c.chunk.js.LICENSE.txt": "/diveroidcounter/static/js/2.9be1b97c.chunk.js.LICENSE.txt",
+    "static/css/main.ac60b5bb.chunk.css.map": "/diveroidcounter/static/css/main.ac60b5bb.chunk.css.map",
+    "static/js/2.178f7935.chunk.js.LICENSE.txt": "/diveroidcounter/static/js/2.178f7935.chunk.js.LICENSE.txt",
     "static/media/png.c35ba13b.png": "/diveroidcounter/static/media/png.c35ba13b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.411df24b.js",
-    "static/js/2.9be1b97c.chunk.js",
-    "static/css/main.e4e7bd3d.chunk.css",
-    "static/js/main.97cc522e.chunk.js"
+    "static/js/runtime-main.7275da1e.js",
+    "static/js/2.178f7935.chunk.js",
+    "static/css/main.ac60b5bb.chunk.css",
+    "static/js/main.0aa4d621.chunk.js"
   ]
 }
