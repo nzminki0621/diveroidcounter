@@ -1,24 +1,23 @@
 {
   "files": {
-    "main.css": "/diveroidcounter/static/css/main.bf251ce8.chunk.css",
-    "main.js": "/diveroidcounter/static/js/main.fd327881.chunk.js",
-    "main.js.map": "/diveroidcounter/static/js/main.fd327881.chunk.js.map",
-    "runtime-main.js": "/diveroidcounter/static/js/runtime-main.cc54cd68.js",
-    "runtime-main.js.map": "/diveroidcounter/static/js/runtime-main.cc54cd68.js.map",
-    "static/js/2.25460456.chunk.js": "/diveroidcounter/static/js/2.25460456.chunk.js",
-    "static/js/2.25460456.chunk.js.map": "/diveroidcounter/static/js/2.25460456.chunk.js.map",
-    "static/js/3.f8fbf6ea.chunk.js": "/diveroidcounter/static/js/3.f8fbf6ea.chunk.js",
-    "static/js/3.f8fbf6ea.chunk.js.map": "/diveroidcounter/static/js/3.f8fbf6ea.chunk.js.map",
+    "main.css": "/diveroidcounter/static/css/main.e4e7bd3d.chunk.css",
+    "main.js": "/diveroidcounter/static/js/main.97cc522e.chunk.js",
+    "main.js.map": "/diveroidcounter/static/js/main.97cc522e.chunk.js.map",
+    "runtime-main.js": "/diveroidcounter/static/js/runtime-main.411df24b.js",
+    "runtime-main.js.map": "/diveroidcounter/static/js/runtime-main.411df24b.js.map",
+    "static/js/2.9be1b97c.chunk.js": "/diveroidcounter/static/js/2.9be1b97c.chunk.js",
+    "static/js/2.9be1b97c.chunk.js.map": "/diveroidcounter/static/js/2.9be1b97c.chunk.js.map",
+    "static/js/3.10a718d0.chunk.js": "/diveroidcounter/static/js/3.10a718d0.chunk.js",
+    "static/js/3.10a718d0.chunk.js.map": "/diveroidcounter/static/js/3.10a718d0.chunk.js.map",
     "index.html": "/diveroidcounter/index.html",
-    "static/css/main.bf251ce8.chunk.css.map": "/diveroidcounter/static/css/main.bf251ce8.chunk.css.map",
-    "static/js/2.25460456.chunk.js.LICENSE.txt": "/diveroidcounter/static/js/2.25460456.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/diveroidcounter/static/media/logo.6ce24c58.svg",
+    "static/css/main.e4e7bd3d.chunk.css.map": "/diveroidcounter/static/css/main.e4e7bd3d.chunk.css.map",
+    "static/js/2.9be1b97c.chunk.js.LICENSE.txt": "/diveroidcounter/static/js/2.9be1b97c.chunk.js.LICENSE.txt",
     "static/media/png.c35ba13b.png": "/diveroidcounter/static/media/png.c35ba13b.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.cc54cd68.js",
-    "static/js/2.25460456.chunk.js",
-    "static/css/main.bf251ce8.chunk.css",
-    "static/js/main.fd327881.chunk.js"
+    "static/js/runtime-main.411df24b.js",
+    "static/js/2.9be1b97c.chunk.js",
+    "static/css/main.e4e7bd3d.chunk.css",
+    "static/js/main.97cc522e.chunk.js"
   ]
 }
