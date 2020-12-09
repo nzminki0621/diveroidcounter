@@ -3,18 +3,24 @@
 }
 
 .App-logo {
-  height: 40vmin;
+  height: 20vmin;
   pointer-events: none;
+  margin-bottom: 0px;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    animation: App-logo-spin infinite 180s linear;
   }
 }
-
+.divlogo {
+  width:200px;
+  margin:30px;
+  margin-top:0;
+  opacity:.2;
+}
 .App-header {
-  background-color: #282c34;
+  background-color: #111214;
   min-height: 100vh;
   display: flex;
   flex-direction: column;
@@ -25,7 +31,12 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #2505b3;
+  font-size: 2rem;
+  font-family:Roboto;
+  font-weight:700;
+  text-underline-offset: 5px;
+  margin:0;
 }
 
 @keyframes App-logo-spin {
@@ -35,4 +46,14 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+.pledge {
+  font-family: futura, Helvetica, Arial;
+  font-size: 6rem;
+  margin-top: 10px;
+  margin-bottom:10px;
+}
+.pledgediv {
+  margin: 0;
 }
